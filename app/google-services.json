@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638551899465",
+    "project_id": "notas-grupo",
+    "storage_bucket": "notas-grupo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638551899465:android:b047c0c107f9e618a5ee98",
+        "android_client_info": {
+          "package_name": "com.grupo.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638551899465-p1c4780p212kvq5hmjpn2un27jat30kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7fefHVSLNVCCCebnKDUCpXk4ChmD2J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638551899465-p1c4780p212kvq5hmjpn2un27jat30kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
